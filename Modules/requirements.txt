@@ -3,3 +3,5 @@ tgcrypto
 yt-dlp
 gunicorn
 yt-dlp
+gunicorn==20.1.0
+Flask==3.0.3
